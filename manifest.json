@@ -2,8 +2,8 @@
   "description": "Parsa Rahimi's Personal Website. My research and development interests, My history, projects which I involved with them, hobbies and many more things about me presented in this website",
   "display": "standalone",
   "lang": "en",
-  "name": "Parsa's Website",
-  "short_name": "Parsa's Website",
+  "name": "Parsa",
+  "short_name": "Parsa",
   "start_url": "/?utm_source=web_app_manifest",
   "icons": [
     {
