@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.b62cfa47.chunk.js",
-    "app.js.map": "/static/js/app.b62cfa47.chunk.js.map",
+    "app.js": "/static/js/app.77b46b71.chunk.js",
+    "app.js.map": "/static/js/app.77b46b71.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.8de74e89.chunk.js": "/static/js/2.8de74e89.chunk.js",
-    "static/js/2.8de74e89.chunk.js.map": "/static/js/2.8de74e89.chunk.js.map",
+    "static/js/2.052f23e1.chunk.js": "/static/js/2.052f23e1.chunk.js",
+    "static/js/2.052f23e1.chunk.js.map": "/static/js/2.052f23e1.chunk.js.map",
     "fonts/Ubuntu-Regular.ttf": "/./fonts/Ubuntu-Regular.ttf",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
@@ -13,8 +13,8 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.8de74e89.chunk.js.LICENSE.txt": "/static/js/2.8de74e89.chunk.js.LICENSE.txt",
-    "static/media/About.md": "/static/media/About.ea184aca.md",
+    "static/js/2.052f23e1.chunk.js.LICENSE.txt": "/static/js/2.052f23e1.chunk.js.LICENSE.txt",
+    "static/media/About.md": "/static/media/About.70db26e6.md",
     "static/media/drawer_pic.png": "/static/media/drawer_pic.44dcf537.png",
     "static/media/github.png": "/static/media/github.f71ddf10.png",
     "static/media/linkedin.png": "/static/media/linkedin.ddc52ca7.png",
@@ -26,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.8de74e89.chunk.js",
-    "static/js/app.b62cfa47.chunk.js"
+    "static/js/2.052f23e1.chunk.js",
+    "static/js/app.77b46b71.chunk.js"
   ]
 }
