@@ -12,7 +12,7 @@
 | Jan 2015 - Present | Freelance Developer Researcher | Various | As consultant developer and researchers our team suggest solution to our customers on wide range of topics including web-driven technologies, AI, Decentralized Apps |
 | Aug 2018 - July 2018 | R&D Intern | SAADAT, co | Design Integration of SBC and SOMs |
 
-
+    
 
 # Courses
 Courses which I attend or take as a student.
