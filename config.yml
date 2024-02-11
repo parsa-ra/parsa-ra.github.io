@@ -114,6 +114,8 @@ params:
             In essence my work is to study that can the Visual Generative Models be **USEFUL** beside the entertainment industry or not.
 
     socialIcons:
+        - name: googlescholar
+          url:  "https://scholar.google.com/citations?user=C9zutCkAAAAJ&hl=en"
         - name: github
           url: "https://github.com/parsa-ra"
         - name: linkedin
