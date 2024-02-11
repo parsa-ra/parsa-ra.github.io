@@ -109,7 +109,9 @@ params:
 
             > 
 
-            My main research interest are Mitigating **Bias** and Boosting **Fairness** mainly in Computer Vision. Specifically my approach at the moment is to address the problem using **Balanced Synthetic Datasets** by controlling the **Visual Generative Models** (*e.g.*, StyleGANs, Latent Diffusion, ... ), which tries to tackle the transfer of bias in datasets to the model's outcome.
+            My main research interest are Mitigating **Bias** and Boosting **Fairness** mainly in Computer Vision. Specifically my approach at the moment is to address the problem using **Balanced Synthetic Datasets** by controlling the **Visual Generative Models** (*e.g.*, StyleGANs, Diffusion, ... ), which tries to tackle the transfer of bias in datasets to the model's outcome.
+
+            In essence my work is to study that can the Visual Generative Models be **USEFUL** beside the entertainment industry or not.
 
     socialIcons:
         - name: github
