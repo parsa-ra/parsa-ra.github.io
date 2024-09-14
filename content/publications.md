@@ -7,6 +7,14 @@ summary: "academic publications"
 
 **2024** 
 >
+
+[Synthetic to Authentic: Transferring Realism to 3D Face Renderings for Boosting Face Recognition](https://arxiv.org/abs/2407.07627)
+
+ European Conference on Computer Vision Workshop of Synthetic Data in Computer Vision, September 2024
+
+**Parsa Rahimi**, Behrooz Razeghi, Sebastien Marcel
+
+
 [Deep Variational Privacy Funnel: General Modeling with Applications in Face Recognition](https://arxiv.org/pdf/2401.14792.pdf)
 
  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2024 
