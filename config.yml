@@ -109,7 +109,7 @@ params:
 
             > 
 
-            My main research interest are Mitigating **Bias** and Boosting **Fairness** mainly in Computer Vision. Specifically my approach at the moment is to address the problem using **Balanced Synthetic Datasets** by controlling the **Visual Generative Models** (*e.g.*, StyleGANs, Diffusion, ... ), which tries to tackle the transfer of bias in datasets to the model's outcome.
+            My main research interest is Synthetic Data Generation and its application in various Computer Vision tasks. Specifically my current approach is to study if it is possible to use the Generative Models like StyleGANs, Diffusion and Flows to further enhance the Discriminative models (e.g., Classifiers). Conceptually this have some common grounds with **Analysis by Synthesis** idea.
 
             In essence my work is to study that can the Visual Generative Models be **USEFUL** beside the entertainment industry or not.
 
@@ -122,6 +122,8 @@ params:
           url: "https://www.linkedin.com/in/parsa-rahimi-02400514b/"
         - name: twitter
           url: "https://twitter.com/_Parano_"
+        - name: pdffile
+          url: "https://parsa-ra.github.io/resume.pdf"
         - name: email
           url: "mailto://parsa.rahimi.n@gmail.com"
         - name: email
