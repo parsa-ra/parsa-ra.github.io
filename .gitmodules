@@ -2,3 +2,6 @@
 	path = themes/hugo-PaperMod
 	url = git@github.com:parsa-ra/hugo-papermode.git
 	branch = parsasTheme
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
