@@ -5,6 +5,15 @@ layout: "publications"
 summary: "academic publications"
 ---
 
+**2025** 
+>
+
+[AugGen: Synthetic Augmentation Can Improve Discriminative Models](https://parsa-ra.github.io/auggen/)
+
+ The Thirty-Ninth Annual Conference on Neural Information Processing Systems ,December 2025
+
+**Parsa Rahimi**, Damien Teney, Sebastien Marcel
+
 **2024** 
 >
 
